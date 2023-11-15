@@ -1,6 +1,6 @@
 
 ## Descripción
-Integracion entre el sistema se parqueo automatico y quickbooks online API REST PHP
+Integracion entre el sistema se parqueo automatico y quickbooks online API REST PHP y Quickbooks SDK
 
 ## Autor - 
 **Kevilyn Campos Rodriguez**
